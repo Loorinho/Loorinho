@@ -14,10 +14,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Loorinho&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Loorinho)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/Loorinho)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Loorinho)  
 
-![Profile views](https://gpvc.arturio.dev/Loorinho)  
