@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Loor Jacobson
 #### I am a fullstack developer from Uganda
-![I am a frontend developer from Uganda]
-
 
 Skills: Laravel / Symfony / REACT / JS / HTML / CSS
 
