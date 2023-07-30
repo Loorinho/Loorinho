@@ -1,4 +1,5 @@
 ### Hi there 👋, my name is Loor Jacobson
+### I am fourth year software engineering student 
 #### I am a fullstack developer from Uganda
 
 Skills: Laravel / Symfony / REACT / JS / HTML / CSS
