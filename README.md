@@ -1,7 +1,7 @@
 Hi 👋 My name is Loor Jacobson
 ==============================
 
-Full stack web developer
+Full stack developer
 ------------------------
 
 I am a passionate fullstack developer who loves React and Php
