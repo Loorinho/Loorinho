@@ -4,7 +4,7 @@ Hi 👋 My name is Loor Jacobson
 Full stack developer
 ------------------------
 
-I am a passionate fullstack developer who loves React and Php
+I am a passionate software engineering student who loves React, Nextjs and Java
 
 * 🌍  I'm based in Kampala - Uganda
 * ✉️  You can contact me at [romeojacobson@gmail.com](mailto:romeojacobson@gmail.com)
